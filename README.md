@@ -1,3 +1,3 @@
-# brightfuture
-My first repository on GitHub
+# profile
+My personal profile
  
